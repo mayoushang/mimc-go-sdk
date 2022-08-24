@@ -66,6 +66,6 @@ const (
 
 	FE_ADDRESS_KEY string = "MIMC_FE_ADDR"
 
-	CACHE_DIR  string = "/attach/"
+	CACHE_DIR  string = "./tmp/attach/"
 	CACHE_FILE string = ".info.etd"
 )
