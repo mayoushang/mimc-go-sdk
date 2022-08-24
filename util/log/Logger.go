@@ -34,7 +34,7 @@ var zero = [...]string{"0000", "000", "00", "0"}
 func init() {
 	level = InfoLevel
 	log = nil
-	logPath = "./mimc.log"
+	logPath = "./tmp/mimc.log"
 }
 
 func SetLogPath(path string) {
