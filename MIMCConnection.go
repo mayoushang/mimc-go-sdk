@@ -2,10 +2,10 @@ package mimc
 
 import (
 	"container/list"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/cipher"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/common/constant"
-	. "github.com/Xiaomi-mimc/mimc-go-sdk/frontend"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/util/string"
+	"github.com/mayoushang/mimc-go-sdk/cipher"
+	"github.com/mayoushang/mimc-go-sdk/common/constant"
+	. "github.com/mayoushang/mimc-go-sdk/frontend"
+	"github.com/mayoushang/mimc-go-sdk/util/string"
 	"net"
 )
 

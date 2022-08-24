@@ -2,8 +2,8 @@ package handler
 
 import (
 	"container/list"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/message"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/util/log"
+	"github.com/mayoushang/mimc-go-sdk/message"
+	"github.com/mayoushang/mimc-go-sdk/util/log"
 	"time"
 )
 

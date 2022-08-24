@@ -1,7 +1,7 @@
 package frontend
 
 import (
-	"github.com/Xiaomi-mimc/mimc-go-sdk/common/constant"
+	"github.com/mayoushang/mimc-go-sdk/common/constant"
 )
 
 type ProdFrontPeerFetcher struct {

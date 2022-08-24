@@ -7,7 +7,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/util/log"
+	"github.com/mayoushang/mimc-go-sdk/util/log"
 	"io/ioutil"
 	"math/rand"
 	"os"

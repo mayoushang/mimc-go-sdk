@@ -2,11 +2,11 @@ package packet
 
 import (
 	"bytes"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/cipher"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/common/constant"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/protobuf/ims"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/util/byte"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/util/log"
+	"github.com/mayoushang/mimc-go-sdk/cipher"
+	"github.com/mayoushang/mimc-go-sdk/common/constant"
+	"github.com/mayoushang/mimc-go-sdk/protobuf/ims"
+	"github.com/mayoushang/mimc-go-sdk/util/byte"
+	"github.com/mayoushang/mimc-go-sdk/util/log"
 	"github.com/golang/protobuf/proto"
 )
 

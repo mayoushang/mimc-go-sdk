@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/Xiaomi-mimc/mimc-go-sdk"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/demo/handler"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/util/log"
+	"github.com/mayoushang/mimc-go-sdk"
+	"github.com/mayoushang/mimc-go-sdk/demo/handler"
+	"github.com/mayoushang/mimc-go-sdk/util/log"
 )
 
 /**

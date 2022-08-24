@@ -1,8 +1,8 @@
 package id
 
 import (
-	"github.com/Xiaomi-mimc/mimc-go-sdk/common/constant"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/util/string"
+	"github.com/mayoushang/mimc-go-sdk/common/constant"
+	"github.com/mayoushang/mimc-go-sdk/util/string"
 	"strconv"
 	"sync"
 )

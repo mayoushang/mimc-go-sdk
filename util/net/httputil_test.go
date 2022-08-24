@@ -5,7 +5,7 @@ import (
 	//"container/list"
 	"encoding/json"
 	"fmt"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/common/constant"
+	"github.com/mayoushang/mimc-go-sdk/common/constant"
 	"reflect"
 	"testing"
 )

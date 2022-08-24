@@ -2,7 +2,7 @@ package mimc
 
 import (
 	"container/list"
-	"github.com/Xiaomi-mimc/mimc-go-sdk/message"
+	"github.com/mayoushang/mimc-go-sdk/message"
 )
 
 type Token interface {
